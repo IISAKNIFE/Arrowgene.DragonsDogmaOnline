@@ -15,7 +15,7 @@ toc::[]
 '''
 
 == Disclaimer
-The project is intended for educational purpose only.
+The project is intended for educational purpose only. 
 
 == Quick Start
 
