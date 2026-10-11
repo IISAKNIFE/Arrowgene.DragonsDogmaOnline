@@ -3,6 +3,8 @@ on:
   workflow_dispatch:
     branches:
       - master
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
